@@ -1,0 +1,9 @@
+soundfile
+sounddevice
+psychopy
+python-pygaze
+numpy
+pygame
+opencv-python
+dlib
+wxpython
