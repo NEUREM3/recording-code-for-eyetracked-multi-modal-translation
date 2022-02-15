@@ -1,2 +1,0 @@
-The lists 1 to 4 contain the list of sentences that are actually presented to the participants. The folder blocks_lists contain the 
-actual blocks and the lists as they are called during the experiment 
